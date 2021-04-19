@@ -24,7 +24,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/srizzuto/Responsive-Web-Design/issues).
+Feel free to check the [issues page](https://github.com/srizzuto/bubble-sort/issues).
 
 ## Show your support
 
