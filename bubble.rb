@@ -1,6 +1,6 @@
 def bubble_sort(array)
-    unsorted = true
-    while unsorted 
+  unsorted = true
+    while unsorted
       i = 0
       unsorted = false
       while i < array.length - 1
