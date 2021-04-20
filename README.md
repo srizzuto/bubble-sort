@@ -5,6 +5,20 @@
 ## Built With
 
 - Ruby
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+Go to https://github.com/srizzuto/bubble-sort/
+
+1. Click on the code and copy the HTML code.
+2. Use terminal to clone this repository on your local machine.
+3. Run <code>git checkout -b your-branch-name</code>. Make your contributions.
+4. Push your branch up to your forked repository.
+5. Open a Pull Request with a detailed description of the development branch of the original project for a review.
+
+
 ## Authors
 
 👤 **Sebastian Rizzuto**
